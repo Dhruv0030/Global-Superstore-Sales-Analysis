@@ -1,4 +1,4 @@
-# 📊 Global Superstore Sales Analysis
+## Global Superstore Sales Analysis
 
 ## Project Overview
 
@@ -17,7 +17,7 @@ This project analyzes the Global Superstore dataset using **Python, MySQL, and P
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ![Global Superstore Dashboard](Dashboard.png)
 ---
