@@ -17,10 +17,9 @@ This project analyzes the Global Superstore dataset using **Python, MySQL, and P
 
 ---
 
-## Dashboard Preview
+## 📊 Dashboard Preview
 
-*(Dashboard image will be added here after uploading.)*
-
+![Global Superstore Dashboard](Dashboard.png)
 ---
 
 ## Project Structure
